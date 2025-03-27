@@ -1,0 +1,20 @@
+{
+  "name": "simple-contact-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teresingugi822/simple-contact-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teresingugi822/simple-contact-book/issues"
+  },
+  "homepage": "https://github.com/teresingugi822/simple-contact-book#readme"
+}

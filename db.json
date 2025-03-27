@@ -1,0 +1,35 @@
+{
+    "contacts": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "johndoe@email.com"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "phone": "987-654-3210",
+        "email": "janesmith@email.com"
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "phone": "555-678-1234",
+        "email": "alicej@email.com"
+      },
+      {
+        "id": 4,
+        "name": "Bob Williams",
+        "phone": "321-765-4321",
+        "email": "bobw@email.com"
+      },
+      {
+        "id": 5,
+        "name": "Charlie Brown",
+        "phone": "111-222-3333",
+        "email": "charlieb@email.com"
+      }
+    ]
+  }
+  
